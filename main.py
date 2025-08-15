@@ -2,7 +2,16 @@ catalog = {
     "apple": 3.50,
     "banana": 2.00,
     "bread": 12.00,
-    "milk": 9.50
+    "milk": 9.50,
+    "egg": 2.50,
+    "orange" : 5.00,
+    "cookie" : 14.00,
+    "crisp" : 44.00,
+    "honey" : 25.00,
+    "water" : 3.00,
+    "gummy" : 5.00,
+    "chocolate" : 25.00,
+    "onion" : 10.00
 }
 
 cart = {}
